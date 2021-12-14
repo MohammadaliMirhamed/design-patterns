@@ -1,0 +1,4 @@
+-- Adapter Pattern
+
+
+-- الگوی آداپتر
