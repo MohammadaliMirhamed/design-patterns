@@ -1,4 +1,7 @@
 # Adapter Pattern
+In software engineering, the pattern adapter design is a design pattern that allows developers to access the interface of their intended class through another class interface, thus using its attributes and methods in that class. . In other words, this template is used to use the capabilities of one class inside another class without changing its source code.
+
+It's best to use this pattern design when developing an application that relies on a set of external APIs to perform the task, or an application that requires the use of class features that may change sooner or later.
 
 
 # الگوی اِدَپتر 
