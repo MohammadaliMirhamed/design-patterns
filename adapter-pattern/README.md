@@ -1,4 +1,4 @@
--- Adapter Pattern
+# Adapter Pattern
 
 
--- الگوی آداپتر
+# الگوی آداپتر
