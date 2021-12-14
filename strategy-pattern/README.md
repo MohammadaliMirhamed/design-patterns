@@ -1,0 +1,5 @@
+# strategy-pattern
+
+
+
+# الگوی استراتژی
