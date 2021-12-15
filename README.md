@@ -1,7 +1,7 @@
 # design-patterns
 
 
-Here are simple examples of the most important design patterns in object programming in the php programming language.
+Here are simple examples of the most important design patterns in object oriented programming in the php programming language.
 
 Note: You must have learned the php programming language and object-oriented before you can start working with these examples.
 
